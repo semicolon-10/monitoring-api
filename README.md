@@ -21,7 +21,7 @@ Follow these steps to set up and run the Monitoring
     docker-compose up -d
     ```
 
-    This will start Prometheus UI, and you can access it via [http://localhost:9091/](http://localhost:9091/).
+    This will start Prometheus UI, and you can access it via [http://localhost:9091/](http://localhost:9091/), Also Grafana on [http://localhost:3000/](http://localhost:3000/)
 
 3. **Running the Dummy Web Server**
 
